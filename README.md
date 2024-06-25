@@ -31,6 +31,9 @@ pip es el sistema de gestión de paquetes de Python. Nos permite instalar, actua
 Actualizar pip es importante porque:
 
 Nuevas Funcionalidades: Las nuevas versiones de pip suelen incluir nuevas funcionalidades que pueden ser útiles para la gestión de paquetes.
+
 Seguridad: Las actualizaciones pueden contener parches de seguridad importantes.
+
 Compatibilidad: Mantener pip actualizado asegura mejor compatibilidad con los nuevos paquetes y sus versiones.
+
 Corrección de Errores: Las versiones más recientes de pip solucionan errores y mejoran la estabilidad.
